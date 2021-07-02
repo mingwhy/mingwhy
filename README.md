@@ -9,7 +9,7 @@
 
 :four_leaf_clover: I like hiking, reading, watching anime and programming~
 
-:coffee: This year, I want to know more about neuroscience and astronomy.
+🔭 This year, I want to know more about neuroscience and astronomy.
 
 You can find me by [email](yangming.sysu@gmail.com), or [Twitter](https://twitter.com/tiramisu916).
 
