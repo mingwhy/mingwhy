@@ -11,6 +11,8 @@
 
 🔭 This year, I want to know more about neuroscience and astronomy.
 
-You can find me by [email](yangming.sysu@gmail.com), or [Twitter](https://twitter.com/tiramisu916).
+You can find me by [Email](yangming.sysu@gmail.com), or [Twitter](https://twitter.com/tiramisu916).
+
+I could be bounded in a nutshell and count myself a king of infinite space.
 
 - [ming @2021](https://github.com/mingwhy/2021)
