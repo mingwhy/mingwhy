@@ -5,13 +5,12 @@
 - 🔭 I’m currently working on as a post-doc in UW
 - 🌱 I’m ...
 -->
-This is Ming, currently working as a post-doc in UW.
-I like hiking, reading, watching anime and programming~
+:smile: This is Ming, currently working as a post-doc in UW.
+:coffee: I like hiking, reading, watching anime and programming~
 
-This year, I want to know more about neuroscience and astronomy.
+:four_leaf_clover: This year, I want to know more about neuroscience and astronomy.
 
 You can find me by [email](yangming.sysu@gmail.com), or [Twitter]
 (https://twitter.com/tiramisu916).
 
-- [my 2021](https://github.com/mingwhy/2021)
--
+- [ming @2021](https://github.com/mingwhy/2021)
