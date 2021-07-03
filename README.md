@@ -7,7 +7,7 @@
 -->
 :smile: This is Ming, currently working as a post-doc in UW.
 
-:four_leaf_clover: I like hiking, reading, watching anime and programming~
+:four_leaf_clover: I like walking, reading, watching movies, and programming~
 
 🔭 This year, I want to know more about neuroscience and astronomy.
 
