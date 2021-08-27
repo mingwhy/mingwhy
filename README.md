@@ -12,7 +12,7 @@
 🔭 This year, I want to know more about neuroscience and astronomy.
 
 
-You can find me by [Email](yangming.sysu@gmail.com), or [Twitter](https://twitter.com/tiramisu916).
+You can find me by Email(yangming.sysu@gmail.com), or [Twitter](https://twitter.com/tiramisu916).
 
 
 - [ming @2021 中文](https://github.com/mingwhy/2021)
