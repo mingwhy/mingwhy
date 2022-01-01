@@ -15,4 +15,4 @@
 You can find me by [Email](yangming.sysu@gmail.com), or [Twitter](https://twitter.com/tiramisu916).
 
 
-- [ming @2021 中文](https://github.com/mingwhy/2021)
+- [ming @2022 中文](https://github.com/mingwhy/2022)
