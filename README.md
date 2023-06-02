@@ -7,12 +7,12 @@
 -->
 :smile: This is Ming, currently working as a post-doc in UW.
 
-:four_leaf_clover: I like walking, reading, watching movies, and programming~
+:four_leaf_clover: I like reading, coding, listening to podcast, exploring food, and watching movies~
 
 🔭 This year, I want to know more about neuroscience and astronomy.
 
 
-You can find me by [Email](yangming.sysu@gmail.com), or [Twitter](https://twitter.com/tiramisu916).
+You can find me by [Email](yangming.sysu@gmail.com), [Twitter](https://twitter.com/tiramisu916), or [my blog](https://fastidious-profiterole-1be178.netlify.app/).
 
 
 - [ming @2023 中文](https://github.com/mingwhy/this.year)
