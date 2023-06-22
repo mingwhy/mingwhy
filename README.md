@@ -15,4 +15,4 @@
 You can find me by [Email](yangming.sysu@gmail.com), [Twitter](https://twitter.com/tiramisu916), or [my blog](https://fastidious-profiterole-1be178.netlify.app/).
 
 
-- [ming @2023 中文]([https://github.com/mingwhy/this.year](https://github.com/mingwhy/mingwhy/blob/main/2023_README.md)https://github.com/mingwhy/mingwhy/blob/main/2023_README.md)
+- [ming @2023 中文](https://github.com/mingwhy/mingwhy/blob/main/2023_README.md)
