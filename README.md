@@ -12,7 +12,5 @@
 🔭 This year, I want to know more about neuroscience and astronomy.
 
 
-You can find me by [Email](yangming.sysu@gmail.com), [Twitter](https://twitter.com/tiramisu916), or [my blog](https://fastidious-profiterole-1be178.netlify.app/).
+You can find me by [Email](yangming.sysu@gmail.com), [Twitter](https://twitter.com/tiramisu916), or [my blog](https://mingwhy.github.io/).
 
-
-- [ming @2023 中文](https://github.com/mingwhy/mingwhy/blob/main/2023_README.md)
